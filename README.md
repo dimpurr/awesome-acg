@@ -156,6 +156,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 - [acgn-stock](https://github.com/mrbigmouth/acgn-stock) - Stock market for trading waifu on PPT (Taiwan).
 - [Bangumi scripts](https://github.com/bangumi/scripts) - Collection of user scripts for [bangumi.tv](http://bangumi.tv).
+- [awesome-bangumi](https://github.com/jokester/awesome-bangumi) - Collection of [bangumi.tv](http://bangumi.tv) related projects.
 - [Deneb](https://github.com/lordfriend/Deneb) - Web client for [Albireo](https://github.com/lordfriend/Albireo).
 - [KarasamaEgg](https://github.com/ClassicOldSong/KarasamaEgg) - KarasamaEgg dynamic wallpaper for WallpaperEngine.
 - [pixi-live2d](https://github.com/avgjs/pixi-live2d) - Display live2D model as a sprite in pixi.js.
